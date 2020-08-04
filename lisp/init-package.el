@@ -46,6 +46,12 @@
 ;;  :hook (prog-mode . flycheck-mode))
 
 
+;;evil emacs
+;;(add-to-list 'load-path "/home/ring/.emacs.d/evil")
+;;(require 'evil)
+;;(evil-mode 1)
+
+
 
 
 
